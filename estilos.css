@@ -1,0 +1,14 @@
+body{
+	height: 900px;
+	width: 800px;
+	margin: auto;
+}
+#enca{
+	text-align: center;
+}
+.texto{
+	text-align: justify;
+}
+h2{
+	color:blue;
+}
